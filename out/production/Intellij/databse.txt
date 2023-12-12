@@ -1,0 +1,12 @@
+for creating class:
+javac -cp .;lib/mysql-connector-j-8.1.0.jar FleetManagementApp.java
+for using the code
+java -cp .;lib/mysql-connector-j-8.1.0.jar FleetManagementApp
+folder path
+cd C:\Users\MONIKA YADAV\OneDrive\Desktop\FleetControl\Intellij
+
+
+whats done:
+Vehicle Array
+Driver text file
+Category
